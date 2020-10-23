@@ -1,14 +1,20 @@
-<h4 align="center"> 
-	Proffy
-</h4>
+<h1 align="center" >
+    <img alt="Logo Proffy" src="/.github/screenshots/logo.png" />
+</h1>
+
+<h3 align="center">
+    Sua plataforma de estudos online
+</h3>
+
+<h1 align="center">
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/banner.png" />
+</h1>
 
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-tecnologias">Tecnologias</a> • 
- 	<a href="#-autor">Autor</a> • 
- 	<a href="#user-content--licença">Licença</a>
+  	<a href="#-tecnologias">Tecnologias</a> • 	
 </p>
 
 
@@ -19,18 +25,19 @@
 Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
 ---
+
 ## 🎨 Layout
 
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study.png" width="100%">
 </p>
 
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes.png" width="100%">
 </p>
 
 ---
@@ -61,6 +68,7 @@ $ npm start
 ```
 
 ---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -75,4 +83,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[SQLite](https://www.sqlite.org/index.html)**
 - **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/proffy-discovery/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/GabrielDeFreitas/Proffy-Discovery/blob/master/package.json)
+
+---
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
