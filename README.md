@@ -2,10 +2,6 @@
     <img alt="Logo Proffy" src="/.github/screenshots/logo.png" />
 </h1>
 
-<h3 align="center">
-    Sua plataforma de estudos online
-</h3>
-
 <h1 align="center">
     <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/banner.png" />
 </h1>
@@ -24,8 +20,6 @@
 
 Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
----
-
 ## 🎨 Layout
 
 ###  Página de listagem dos professores
@@ -39,8 +33,6 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes.png" width="100%">
 </p>
-
----
 
 ## 🚀 Como executar o projeto
 
@@ -67,8 +59,6 @@ $ npm start
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
 
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -85,7 +75,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/GabrielDeFreitas/Proffy-Discovery/blob/master/package.json)
 
----
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
